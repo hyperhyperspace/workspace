@@ -1,15 +1,15 @@
 [submodule ".\\@hyper-hyper-space\\core"]
-	path = .\\@hyper-hyper-space\\core
+	path = @hyper-hyper-space/core
 	url = https://github.com/hyperhyperspace/hyperhyperspace-core.git
 [submodule ".\\@hyper-hyper-space\\node-env"]
-	path = .\\@hyper-hyper-space\\node-env
+	path = @hyper-hyper-space/node-env
 	url = https://github.com/hyperhyperspace/hyperhyperspace-node-env.git
 [submodule ".\\@hyper-hyper-space\\p2p-chat"]
-	path = .\\@hyper-hyper-space\\p2p-chat
+	path = @hyper-hyper-space/p2p-chat
 	url = https://github.com/hyperhyperspace/p2p-chat.git
 [submodule ".\\@hyper-hyper-space\\p2p-chat-cli"]
-	path = .\\@hyper-hyper-space\\p2p-chat-cli
+	path = @hyper-hyper-space/p2p-chat-cli
 	url = https://github.com/hyperhyperspace/p2p-chat-cli.git
 [submodule ".\\@hyper-hyper-space\\p2p-chat-web"]
-	path = .\\@hyper-hyper-space\\p2p-chat-web
+	path = @hyper-hyper-space/p2p-chat-web
 	url = https://github.com/hyperhyperspace/p2p-chat-web.git
