@@ -23,7 +23,7 @@ This will populate the following repos:
 - `workspace/@hyper-hyper-space/node-env`: additions to run the core library on NodeJS
 - `workspace/@hyper-hyper-space/p2p-chat`: a chat engine based on HHS (WIP)
 - `workspace/@hyper-hyper-space/p2p-chat-cli`: a console-based chat UI
-- `workspace/@hyper-hyper-space/p2p-chat-web`: -> a web-based chat UI
+- `workspace/@hyper-hyper-space/p2p-chat-web`: a web-based chat UI
 
 You have to build the ones you want to use (even as depedencies) by doing
 
