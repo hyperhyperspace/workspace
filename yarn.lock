@@ -11584,7 +11584,7 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@^3.8.3, typescript@^3.9.6:
+typescript@^3.8.3:
   version "3.9.7"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz#98d600a5ebdc38f40cb277522f12dc800e9e25fa"
   integrity sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==
@@ -12263,6 +12263,14 @@ worker-farm@^1.7.0:
   integrity sha512-rvw3QTZc8lAxyVrqcSGVm5yP/IJ2UcB3U0graE3LCFoZ0Yn2x4EoVSqJKdB/T5M+FLcRPjz4TDacRf3OCfNUzw==
   dependencies:
     errno "~0.1.7"
+
+worker-loader@^3.0.7:
+  version "3.0.7"
+  resolved "https://registry.yarnpkg.com/worker-loader/-/worker-loader-3.0.7.tgz#9cf2122a9a781d6742cb873c58c3769591b31988"
+  integrity sha512-LjYLuYJw6kqQKDoygpoD5vWeR1CbZjuVSW3/8pFsptMlUl8gatNM/pszhasSDAWt+dYxMipWB6695k+1zId+iQ==
+  dependencies:
+    loader-utils "^2.0.0"
+    schema-utils "^3.0.0"
 
 worker-rpc@^0.1.0:
   version "0.1.1"
