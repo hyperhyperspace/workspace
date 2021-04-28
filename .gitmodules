@@ -16,3 +16,6 @@
 [submodule "@hyper-hyper-space/react"]
 	path = @hyper-hyper-space/react
 	url = https://github.com/hyperhyperspace/hyperhyperspace-react.git
+[submodule "@hyper-hyper-space/soliton"]
+	path = @hyper-hyper-space/soliton
+	url = https://github.com/hyperhyperspace/soliton.git
