@@ -1,4 +1,4 @@
-cd "@hyper-hyper-space/node-env" 
+cd "@hyper-hyper-space/node-env"
 git pull
 cd .. 
 cd core
