@@ -3,5 +3,6 @@
   "workspaces": [
     "@hyper-hyper-space/core", "@hyper-hyper-space/p2p-chat", "@hyper-hyper-space/node-env", 
     "@hyper-hyper-space/p2p-chat-cli", "@hyper-hyper-space/p2p-chat-web",
-    "@hyper-hyper-space/react", "@hyper-hyper-space/soliton", "@hyper-hyper-space/sloth-permutation"]
+    "@hyper-hyper-space/react", "@hyper-hyper-space/soliton", "@hyper-hyper-space/sloth-permutation",
+    "@hyper-hyper-space/sqlite"]
 }
