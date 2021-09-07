@@ -22,3 +22,6 @@
 [submodule "@hyper-hyper-space/sloth-permutation"]
 	path = @hyper-hyper-space/sloth-permutation
 	url = https://github.com/hyperhyperspace/sloth-permutation.git
+[submodule ".\\@hyper-hyper-space\\sqlite"]
+	path = .\\@hyper-hyper-space\\sqlite
+	url = https://github.com/hyperhyperspace/hyperhyperspace-sqlite.git
