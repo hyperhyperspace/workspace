@@ -6,6 +6,10 @@ cd core
 git checkout master
 git pull
 cd ..
+cd sqlite
+git checkout master
+git pull
+cd ..
 cd react
 git checkout master
 git pull

@@ -3,6 +3,9 @@ yarn build
 cd .. 
 cd core
 yarn build
+cd .. 
+cd sqlite
+yarn build
 cd ..
 cd react
 yarn build
