@@ -25,3 +25,6 @@
 [submodule ".\\@hyper-hyper-space\\sqlite"]
 	path = @hyper-hyper-space/sqlite
 	url = https://github.com/hyperhyperspace/hyperhyperspace-sqlite.git
+[submodule "@hyper-hyper-space/chat-group"]
+	path = @hyper-hyper-space/chat-group
+	url = https://github.com/hyperhyperspace/chat-group.git
