@@ -28,3 +28,6 @@
 [submodule "@hyper-hyper-space/chat-group"]
 	path = @hyper-hyper-space/chat-group
 	url = https://github.com/hyperhyperspace/chat-group.git
+[submodule ".\\@hyper-hyper-space\\pulsar-node"]
+	path = .\\@hyper-hyper-space\\pulsar-node
+	url = https://github.com/hyperhyperspace/pulsar-node.git
