@@ -19,7 +19,9 @@ cd ..
 cd p2p-chat-web
 git pull
 cd ..
-cd soliton
+cd pulsar
 git pull
 cd ..
+cd pulsar-node
+git pull
 cd ../..

@@ -12,4 +12,7 @@ yarn build
 cd ..
 cd p2p-chat
 yarn build
+cd ..
+cd pulsar
+yarn build
 cd ../..

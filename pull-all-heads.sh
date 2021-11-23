@@ -26,7 +26,11 @@ cd p2p-chat-web
 git checkout master
 git pull
 cd ..
-cd soliton
+cd pulsar
+git checkout main
+git pull
+cd ..
+cd pulsar-node
 git checkout main
 git pull
 cd ..
