@@ -34,3 +34,6 @@
 [submodule ".\\@hyper-hyper-space\\pulsar"]
 	path = .\\@hyper-hyper-space\\pulsar
 	url = https://github.com/hyperhyperspace/pulsar.git
+[submodule ".\\@hyper-hyper-space\\pulsar-web"]
+	path = .\\@hyper-hyper-space\\pulsar-web
+	url = https://github.com/hyperhyperspace/pulsar-web.git
