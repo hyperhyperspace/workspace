@@ -1,6 +1,9 @@
 cd "@hyper-hyper-space/node-env"
 git pull
 cd .. 
+cd node-rsa
+git pull
+cd ..
 cd sqlite
 git pull
 cd .. 

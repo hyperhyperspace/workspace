@@ -6,6 +6,10 @@ cd core
 git checkout master
 git pull
 cd ..
+cd node-rsa
+git checkout master
+git pull
+cd ..
 cd sqlite
 git checkout master
 git pull
