@@ -38,4 +38,7 @@ cd pulsar-node
 git checkout main
 git pull
 cd ..
+cd home
+git checkout main
+git pull
 cd ../..

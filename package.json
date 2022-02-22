@@ -5,6 +5,6 @@
     "@hyper-hyper-space/node-rsa", "@hyper-hyper-space/p2p-chat-cli", "@hyper-hyper-space/p2p-chat-web",
     "@hyper-hyper-space/react", "@hyper-hyper-space/sqlite", "@hyper-hyper-space/chat-group",
     "@hyper-hyper-space/pulsar", "@hyper-hyper-space/pulsar-node", "@hyper-hyper-space/pulsar-web",
-    "@hyper-hyper-space/sloth-permutation"
+    "@hyper-hyper-space/sloth-permutation", "@hyper-hyper-space/home"
     ]
 }

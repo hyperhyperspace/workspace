@@ -40,3 +40,6 @@
 [submodule "@hyper-hyper-space/node-rsa"]
 	path = @hyper-hyper-space/node-rsa
 	url = https://github.com/hyperhyperspace/hyperhyperspace-node-rsa
+[submodule "@hyper-hyper-space/home"]
+	path = @hyper-hyper-space/home
+	url = https://github.com/hyperhyperspace/home.git
