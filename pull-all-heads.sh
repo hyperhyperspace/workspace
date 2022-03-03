@@ -41,4 +41,8 @@ cd ..
 cd home
 git checkout main
 git pull
+cd ..
+cd hyper-browser-web
+git checkout main
+git pull
 cd ../..

@@ -30,4 +30,7 @@ git pull
 cd ..
 cd home
 git pull
+cd ..
+cd hyper-browser-web
+git pull
 cd ../..
