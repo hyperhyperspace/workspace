@@ -43,3 +43,6 @@
 [submodule "@hyper-hyper-space/hyper-browser-web"]
 	path = @hyper-hyper-space/hyper-browser-web
 	url = https://github.com/hyperhyperspace/hyper-browser-web.git
+[submodule "@hyper-hyper-space/signalling-server"]
+	path = @hyper-hyper-space/signalling-server
+	url = https://github.com/hyperhyperspace/signalling-server.git
