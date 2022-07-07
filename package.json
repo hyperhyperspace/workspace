@@ -6,5 +6,9 @@
     "@hyper-hyper-space/react", "@hyper-hyper-space/sqlite", "@hyper-hyper-space/chat-group",
     "@hyper-hyper-space/pulsar", "@hyper-hyper-space/pulsar-node", "@hyper-hyper-space/pulsar-web",
     "@hyper-hyper-space/sloth-permutation", "@hyper-hyper-space/home", "@hyper-hyper-space/hyper-browser-web"
-    ]
+    ],
+  "resolutions": {
+    "@types/react": "17.0.20",
+    "@types/react-dom": "17.0.9"
+  }
 }
