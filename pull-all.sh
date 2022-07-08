@@ -33,4 +33,11 @@ git pull
 cd ..
 cd hyper-browser-web
 git pull
+cd ..
+cd chat-group
+git pull
+cd ..
+cd wiki-collab
+git pull
+cd ..
 cd ../..

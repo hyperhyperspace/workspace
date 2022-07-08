@@ -46,3 +46,6 @@
 [submodule "@hyper-hyper-space/signalling-server"]
 	path = @hyper-hyper-space/signalling-server
 	url = https://github.com/hyperhyperspace/signalling-server.git
+[submodule "@hyper-hyper-space/wiki-collab"]
+	path = @hyper-hyper-space/wiki-collab
+	url = https://github.com/hyperhyperspace/wiki-collab.git

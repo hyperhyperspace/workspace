@@ -21,4 +21,11 @@ yarn build
 cd ..
 cd home
 yarn build
+cd ..
+cd chat-group
+yarn build
+cd ..
+cd wiki-collab
+yarn build
 cd ../..
+
