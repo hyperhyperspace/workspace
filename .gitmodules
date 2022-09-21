@@ -1,51 +1,51 @@
 [submodule ".\\@hyper-hyper-space\\core"]
 	path = @hyper-hyper-space/core
-	url = https://github.com/hyperhyperspace/hyperhyperspace-core.git
+	url = git@github.com:hyperhyperspace/hyperhyperspace-core.git
 [submodule ".\\@hyper-hyper-space\\node-env"]
 	path = @hyper-hyper-space/node-env
-	url = https://github.com/hyperhyperspace/hyperhyperspace-node-env.git
+	url = git@github.com:hyperhyperspace/hyperhyperspace-node-env.git
 [submodule ".\\@hyper-hyper-space\\p2p-chat"]
 	path = @hyper-hyper-space/p2p-chat
-	url = https://github.com/hyperhyperspace/p2p-chat.git
+	url = git@github.com:hyperhyperspace/p2p-chat.git
 [submodule ".\\@hyper-hyper-space\\p2p-chat-cli"]
 	path = @hyper-hyper-space/p2p-chat-cli
-	url = https://github.com/hyperhyperspace/p2p-chat-cli.git
+	url = git@github.com:hyperhyperspace/p2p-chat-cli.git
 [submodule ".\\@hyper-hyper-space\\p2p-chat-web"]
 	path = @hyper-hyper-space/p2p-chat-web
-	url = https://github.com/hyperhyperspace/p2p-chat-web.git
+	url = git@github.com:hyperhyperspace/p2p-chat-web.git
 [submodule "@hyper-hyper-space/react"]
 	path = @hyper-hyper-space/react
-	url = https://github.com/hyperhyperspace/hyperhyperspace-react.git
+	url = git@github.com:hyperhyperspace/hyperhyperspace-react.git
 [submodule "@hyper-hyper-space/sloth-permutation"]
 	path = @hyper-hyper-space/sloth-permutation
-	url = https://github.com/hyperhyperspace/sloth-permutation.git
+	url = git@github.com:hyperhyperspace/sloth-permutation.git
 [submodule ".\\@hyper-hyper-space\\sqlite"]
 	path = @hyper-hyper-space/sqlite
-	url = https://github.com/hyperhyperspace/hyperhyperspace-sqlite.git
+	url = git@github.com:hyperhyperspace/hyperhyperspace-sqlite.git
 [submodule "@hyper-hyper-space/chat-group"]
 	path = @hyper-hyper-space/chat-group
-	url = https://github.com/hyperhyperspace/chat-group.git
+	url = git@github.com:hyperhyperspace/chat-group.git
 [submodule ".\\@hyper-hyper-space\\pulsar-node"]
 	path = @hyper-hyper-space/pulsar-node
-	url = https://github.com/hyperhyperspace/pulsar-node.git
+	url = git@github.com:hyperhyperspace/pulsar-node.git
 [submodule ".\\@hyper-hyper-space\\pulsar"]
 	path = @hyper-hyper-space/pulsar
-	url = https://github.com/hyperhyperspace/pulsar.git
+	url = git@github.com:hyperhyperspace/pulsar.git
 [submodule ".\\@hyper-hyper-space\\pulsar-web"]
 	path = @hyper-hyper-space/pulsar-web
-	url = https://github.com/hyperhyperspace/pulsar-web.git
+	url = git@github.com:hyperhyperspace/pulsar-web.git
 [submodule "@hyper-hyper-space/node-rsa"]
 	path = @hyper-hyper-space/node-rsa
-	url = https://github.com/hyperhyperspace/hyperhyperspace-node-rsa
+	url = git@github.com:hyperhyperspace/hyperhyperspace-node-rsa
 [submodule "@hyper-hyper-space/home"]
 	path = @hyper-hyper-space/home
-	url = https://github.com/hyperhyperspace/home.git
+	url = git@github.com:hyperhyperspace/home.git
 [submodule "@hyper-hyper-space/hyper-browser-web"]
 	path = @hyper-hyper-space/hyper-browser-web
-	url = https://github.com/hyperhyperspace/hyper-browser-web.git
+	url = git@github.com:hyperhyperspace/hyper-browser-web.git
 [submodule "@hyper-hyper-space/signalling-server"]
 	path = @hyper-hyper-space/signalling-server
-	url = https://github.com/hyperhyperspace/signalling-server.git
+	url = git@github.com:hyperhyperspace/signalling-server.git
 [submodule "@hyper-hyper-space/wiki-collab"]
 	path = @hyper-hyper-space/wiki-collab
-	url = https://github.com/hyperhyperspace/wiki-collab.git
+	url = git@github.com:hyperhyperspace/wiki-collab.git
