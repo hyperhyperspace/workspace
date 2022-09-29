@@ -3,9 +3,9 @@ yarn build
 cd .. 
 cd core
 yarn build
-#cd ..
-#cd node-rsa
-#yarn build
+cd ..
+cd node-rsa
+yarn build
 cd ..
 cd sqlite
 yarn build
