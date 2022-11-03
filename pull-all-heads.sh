@@ -38,6 +38,10 @@ cd pulsar-node
 git checkout main
 git pull
 cd ..
+cd pulsar-web
+git checkout main
+git pull
+cd ..
 cd home
 git checkout master
 git pull
