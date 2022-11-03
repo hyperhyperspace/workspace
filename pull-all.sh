@@ -28,6 +28,9 @@ cd ..
 cd pulsar-node
 git pull
 cd ..
+cd pulsar-web
+git pull
+cd ..
 cd home
 git pull
 cd ..
