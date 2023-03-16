@@ -57,4 +57,8 @@ cd ..
 cd wiki-collab
 git checkout master
 git pull
+cd ..
+cd wiki-collab-web
+git checkout main
+git pull
 cd ../..

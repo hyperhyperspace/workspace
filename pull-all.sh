@@ -43,4 +43,7 @@ cd ..
 cd wiki-collab
 git pull
 cd ..
+cd wiki-collab-web
+git pull
+cd ..
 cd ../..
