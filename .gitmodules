@@ -49,3 +49,6 @@
 [submodule "@hyper-hyper-space/wiki-collab"]
 	path = @hyper-hyper-space/wiki-collab
 	url = ../wiki-collab.git
+[submodule "@hyper-hyper-space/wiki-collab-web"]
+	path = @hyper-hyper-space/wiki-collab-web
+	url = ../wiki-collab-web.git
