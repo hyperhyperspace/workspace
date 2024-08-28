@@ -43,3 +43,7 @@ The old naive chat demo (deprecated):
 - `workspace/@hyper-hyper-space/p2p-chat-web`: a web-based chat UI
 
 If you change the dependencies of any of the projects in the workspace (e.g. the `package.json` file), you need to run `yarn` in the workspace folder to update and link the dependencies in each project. You can rebuild all the libraries by running `build-deps.sh` (both steps have already been run by `init.sh`).
+
+## Funding
+
+This project is funded through [NGI Assure](https://nlnet.nl/assure), a fund established by [NLnet](https://nlnet.nl) with financial support from the European Commission's [Next Generation Internet](https://ngi.eu) program. Learn more at the [NLnet project page](https://nlnet.nl/project/HyperHyperSpace).
